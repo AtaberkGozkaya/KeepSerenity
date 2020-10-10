@@ -3,8 +3,8 @@
 
 ## Group Members
 
-Ataberk Gözkaya
-Ekin Doğaç Öztürk
-Denizhan Soydaş
-Denizhan Yağcı
-Nogay Evirgen
+Ataberk Gözkaya <br/>
+Ekin Doğaç Öztürk <br/>
+Denizhan Soydaş <br/>
+Denizhan Yağcı <br/>
+Nogay Evirgen 
