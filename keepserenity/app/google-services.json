@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638075121626",
+    "firebase_url": "https://keepserenity-6b44d-default-rtdb.firebaseio.com",
+    "project_id": "keepserenity-6b44d",
+    "storage_bucket": "keepserenity-6b44d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638075121626:android:8ebb850decb70b41341ae3",
+        "android_client_info": {
+          "package_name": "com.sgcreatives.a0003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638075121626-f411k5ib3k1j9irf02e2qjek2vef308f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgw5Gx057WsyS-ZwgJmedL7zB3eANoEUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638075121626-f411k5ib3k1j9irf02e2qjek2vef308f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
